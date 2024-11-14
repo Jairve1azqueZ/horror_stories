@@ -1,2 +1,2 @@
-# horror_stories
-cuentos de terror
+carlos jair velazquez mendoza
+proyecto de pagina de terror
